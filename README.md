@@ -5,7 +5,7 @@
 
 This project is template for a Visual Studio project
 
-## Modules used:
+## Libraries used:
 
  * 
 
